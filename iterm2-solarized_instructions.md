@@ -26,6 +26,14 @@ More info here: https://github.com/robbyrussell/oh-my-zsh
     
 When the installation is done, edit `~/.zshrc` and set `ZSH_THEME="agnoster"`
 
+## Powerlevel9k
+
+If you prefer the Powerlevel9k look with added info such as exit codes and timestamps on the right, run:
+
+    git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k
+
+Then edit your `~/.zshrc` and set `ZSH_THEME="powerlevel9k/powerlevel9k"`.
+
 ## Install a patched font
 
 - [Meslo](https://github.com/Lokaltog/powerline-fonts/blob/master/Meslo/Meslo%20LG%20M%20DZ%20Regular%20for%20Powerline.otf) (the one in the screenshot). Click "view raw" to download the font.
