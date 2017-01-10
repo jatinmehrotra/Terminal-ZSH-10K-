@@ -1,6 +1,6 @@
-# Agnoster
+# Default
 
-![Agnoster](http://oi63.tinypic.com/ipcuax.jpg)
+![Default](http://oi63.tinypic.com/ipcuax.jpg)
 
 # Powerlevel9k
 
