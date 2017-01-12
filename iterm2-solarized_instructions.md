@@ -31,6 +31,10 @@ When the installation is done, edit `~/.zshrc` and set `ZSH_THEME="agnoster"`
 If you prefer the Powerlevel9k look with added info such as exit codes and timestamps on the right, run:
 
     git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k
+    
+If you do not have or want git:
+
+    mkdir -p ~/.oh-my-zsh/custom/themes/powerlevel9k && curl -L https://github.com/bhilburn/powerlevel9k/archive/master.tar.gz | tar -xvz -C ~/.oh-my-zsh/custom/themes/powerlevel9k --strip-components=1
 
 Then edit your `~/.zshrc` and set `ZSH_THEME="powerlevel9k/powerlevel9k"`.
 
