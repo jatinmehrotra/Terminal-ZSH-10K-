@@ -1,7 +1,7 @@
 # Default
 
-![Default](http://oi63.tinypic.com/ipcuax.jpg)
+![Default](https://gist.githubusercontent.com/kevin-smets/9722391f8b3e4fa436b1c1dcf05ecd88/raw/14012c157e280684ae5c75686eef2e302123e51b/agnoster.png)
 
 # Powerlevel9k
 
-![Powerlevel9k](http://i63.tinypic.com/2ch0yrq.png)
+![Powerlevel9k](https://gist.githubusercontent.com/kevin-smets/9722391f8b3e4fa436b1c1dcf05ecd88/raw/14012c157e280684ae5c75686eef2e302123e51b/powerlevel9k.png)
