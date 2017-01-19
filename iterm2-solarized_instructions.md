@@ -88,9 +88,11 @@ Send Escape Sequence
 b
 ```
 
-## Shorter prompt style
+## Custom prompt styles
 
 By default, your prompt will now show “user@hostname” in the prompt. This will make your prompt rather bloated. Optionally set `DEFAULT_USER` in `~/.zshrc` to your regular username (these must match) to hide the “user@hostname” info when you’re logged in as yourself on your local machine. You can get your exact username value by executing `whoami` in the terminal.
+
+For further customisation of your prompt, you can follow a great guide here: https://code.tutsplus.com/tutorials/how-to-customize-your-command-prompt--net-24083
 
 ## Syntax highlighting
 
