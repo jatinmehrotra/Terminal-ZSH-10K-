@@ -34,6 +34,8 @@ If you prefer the Powerlevel9k look with added info such as exit codes and times
 
 Then edit your `~/.zshrc` and set `ZSH_THEME="powerlevel9k/powerlevel9k"`.
 
+Powerlevel9k offers a whole lot more, best is to [check out these user made configs yourself](https://github.com/bhilburn/powerlevel9k/wiki/Show-Off-Your-Config).
+
 ## Install a patched font
 
 - [Meslo](https://github.com/Lokaltog/powerline-fonts/blob/master/Meslo/Meslo%20LG%20M%20DZ%20Regular%20for%20Powerline.otf) (the one in the screenshot). Click "view raw" to download the font.
