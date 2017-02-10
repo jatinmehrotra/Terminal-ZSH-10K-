@@ -10,7 +10,7 @@ iTerm2 has better color fidelity than the built in Terminal, so your themes will
     
 Get the iTerm color settings
 
-- [Solarized Dark theme](https://raw.githubusercontent.com/altercation/solarized/master/iterm2-colors-solarized/Solarized%20Dark.itermcolors)
+- [Solarized Dark theme](https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Solarized%20Dark%20-%20Patched.itermcolors) (patched version to fix the bright black value)
 - [Solarized Light theme](https://raw.githubusercontent.com/altercation/solarized/master/iterm2-colors-solarized/Solarized%20Light.itermcolors)
 - [More themes @ iterm2colorschemes](http://iterm2colorschemes.com/)
     
@@ -64,11 +64,7 @@ can be found in the section below.
 
 Just follow these steps: https://github.com/tarruda/zsh-autosuggestions#oh-my-zsh
 
-If the auto suggestions do not appear to show, it could be a problem with your color scheme. Under "iTerm -> Preferences -> Colors tab", check the value of Black Bright, that is the color your auto suggestions will have. It will be displayed on top of the Background color. 
-
-If there is not enough contrast between the two, you won't see the suggestions even if they're actually there.. For Solarized Dark a patched version is available here: https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Solarized%20Dark%20-%20Patched.itermcolors
-
-More info on the patch: 
+If the auto suggestions do not appear to show, it could be a problem with your color scheme. Under "iTerm -> Preferences -> Colors tab", check the value of Black Bright, that is the color your auto suggestions will have. It will be displayed on top of the Background color. If there is not enough contrast between the two, you won't see the suggestions even if they're actually there..
 
 ## Enable word jumps
 
