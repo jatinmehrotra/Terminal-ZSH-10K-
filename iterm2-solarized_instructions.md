@@ -38,7 +38,8 @@ Powerlevel9k offers a whole lot more, best is to [check out these user made conf
 
 ## Install a patched font
 
-- [Meslo](https://github.com/Lokaltog/powerline-fonts/blob/master/Meslo/Meslo%20LG%20M%20DZ%20Regular%20for%20Powerline.otf) (the one in the screenshot). Click "view raw" to download the font.
+- [Meslo](https://github.com/powerline/fonts/blob/master/Meslo%20Slashed/Meslo%20LG%20M%20Regular%20for%20Powerline.ttf) (the one in the screenshot). Click "view raw" to download the font.
+- [Source Code Pro](https://github.com/powerline/fonts/blob/master/SourceCodePro/Sauce%20Code%20Powerline%20Regular.otf) has better alignment for the glyphs @14px.
 - [Others @ powerline fonts](https://github.com/powerline/fonts)
     
 Open the downloaded font and press "Install Font".
