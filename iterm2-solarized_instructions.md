@@ -14,7 +14,7 @@ Get the iTerm color settings
 - [Solarized Light theme](https://raw.githubusercontent.com/altercation/solarized/master/iterm2-colors-solarized/Solarized%20Light.itermcolors)
 - [More themes @ iterm2colorschemes](http://iterm2colorschemes.com/)
     
-Just save it somewhere and open the file(s). The color settings will be imported into iTerm2. Apply them in iTerm through iTerm -> preferences -> profiles -> colors -> load presets. You can create a different profile other than `Default` if you wish to do so.
+Just save it somewhere and open the file(s). The color settings will be imported into iTerm2. Apply them in iTerm through iTerm → preferences → profiles → colors → load presets. You can create a different profile other than `Default` if you wish to do so.
 
 # Oh My Zsh 
 
@@ -44,7 +44,7 @@ Powerlevel9k offers a whole lot more, best is to [check out these user made conf
     
 Open the downloaded font and press "Install Font".
 
-Set this font in iTerm2 (14px is my personal preference) (iTerm -> Preferences -> Profiles -> Text -> Change Font).
+Set this font in iTerm2 (14px is my personal preference) (iTerm → Preferences → Profiles → Text → Change Font).
 
 Restart iTerm2 for all changes to take effect.
 
@@ -53,7 +53,7 @@ Restart iTerm2 for all changes to take effect.
 Things like
 
 - auto suggestions
-- word jumping with arrow keys
+- word jumping with arrow keys / natural text editing
 - shorter prompt style
 - syntax highlighting
 
@@ -65,27 +65,11 @@ can be found in the section below.
 
 Just follow these steps: https://github.com/tarruda/zsh-autosuggestions#oh-my-zsh
 
-If the auto suggestions do not appear to show, it could be a problem with your color scheme. Under "iTerm -> Preferences -> Colors tab", check the value of Black Bright, that is the color your auto suggestions will have. It will be displayed on top of the Background color. If there is not enough contrast between the two, you won't see the suggestions even if they're actually there..
+If the auto suggestions do not appear to show, it could be a problem with your color scheme. Under "iTerm → Preferences → Colors tab", check the value of Black Bright, that is the color your auto suggestions will have. It will be displayed on top of the Background color. If there is not enough contrast between the two, you won't see the suggestions even if they're actually there..
 
-## Enable word jumps
+## Enable word jumps and word deletion, aka natural text selection
 
-By default, word jumps (option + → or ←) do not work. To enable these, go to "iTerm -> Preferences -> Profiles -> Keys". Press the + sign under the list of key mappings and add the following sequences:
-
-### Option + right
-
-```
-⌥→
-Send Escape Sequence
-f
-```
-
-### Option + left
-
-```
-⌥←
-Send Escape Sequence
-b
-```
+By default, word jumps (option + → or ←) and word deletions (option + backspace) do not work. To enable these, go to "iTerm → Preferences → Profiles → Keys → Load Preset... → Natural Text Editing → Boom! Head explodes"
 
 ## Custom prompt styles
 
