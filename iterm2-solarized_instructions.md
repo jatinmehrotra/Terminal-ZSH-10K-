@@ -48,6 +48,16 @@ Set this font in iTerm2 (14px is my personal preference) (iTerm → Preferences 
 
 Restart iTerm2 for all changes to take effect.
 
+### Visual Studio Code config
+
+Installing a patched font will mess up the integrated terminal in VS Code unless you use the proper settings. You'll need to go to settings (CMD + ,) and add or edit the following values:
+
+- for Source Code Pro: `"terminal.integrated.fontFamily": "Source Code Pro for Powerline"`
+- for Meslo: `"terminal.integrated.fontFamily": "Meslo LG M for Powerline"`
+- for other fonts you'll need to check the font name in Font Book.
+
+You can also set the fontsize e.g.: `"terminal.integrated.fontSize": 14`
+
 # Further tweaking
 
 Things like
