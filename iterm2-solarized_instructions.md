@@ -86,7 +86,7 @@ brew install zsh-syntax-highlighting
 
 If you do not have or do not like homebrew, follow [the installation instructions](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md) instead.
 
-After installation, add
+After installation, add the following line
 
 ```
 source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
