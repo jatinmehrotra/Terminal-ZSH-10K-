@@ -22,7 +22,7 @@ More info here: https://github.com/robbyrussell/oh-my-zsh
 
 ## Install with curl
     
-    sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+    sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
     
 When the installation is done, edit `~/.zshrc` and set `ZSH_THEME="agnoster"`
 
