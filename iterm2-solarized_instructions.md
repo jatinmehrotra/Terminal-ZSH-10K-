@@ -26,22 +26,24 @@ More info here: https://github.com/robbyrussell/oh-my-zsh
     
 When the installation is done, edit `~/.zshrc` and set `ZSH_THEME="agnoster"`
 
-## Powerlevel9k
+## Powerlevel9k / Powerlevel10k
 
-If you prefer the Powerlevel9k look with added info such as exit codes and timestamps on the right, run:
+Why Powerlevel10k? Well, because it's a drop-in replacement for Powerlevel9k, just a lot faster to render your prompt. `ls` feels fast again!
 
-    git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k
+So if you prefer the Powerlevel10k look with added info such as exit codes and timestamps on the right, run:
 
-Then edit your `~/.zshrc` and set `ZSH_THEME="powerlevel9k/powerlevel9k"`.
+    git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k
+
+Then edit your `~/.zshrc` and set `ZSH_THEME="powerlevel10k/powerlevel10k"`.
 
 Also add the following: `POWERLEVEL9K_MODE="awesome-patched"`
 
-Powerlevel9k offers a whole lot more, best is to [check out these user made configs yourself](https://github.com/bhilburn/powerlevel9k/wiki/Show-Off-Your-Config).
+Powerlevel10k offers a whole lot more, best is to [check out these user made configs yourself](https://github.com/bhilburn/powerlevel9k/wiki/Show-Off-Your-Config).
 
 ## Install a patched font
 
 - [Source Code Pro](https://github.com/powerline/fonts/blob/master/SourceCodePro/Source%20Code%20Pro%20for%20Powerline.otf)
-- [Source Code Pro + Font Awesome](https://github.com/Falkor/dotfiles/blob/master/fonts/SourceCodePro%2BPowerline%2BAwesome%2BRegular.ttf), this one is needed if you want the icons from Font Awesome as shown in the screenshot for Powerlevel9k.
+- [Source Code Pro + Font Awesome](https://github.com/Falkor/dotfiles/blob/master/fonts/SourceCodePro%2BPowerline%2BAwesome%2BRegular.ttf), this one is needed if you want the icons from Font Awesome as shown in the screenshot for Powerlevel10k.
 - [Others @ powerline fonts](https://github.com/powerline/fonts)
     
 Open the downloaded font and press "Install Font".
