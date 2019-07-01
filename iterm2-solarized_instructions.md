@@ -34,17 +34,19 @@ If you prefer the Powerlevel9k look with added info such as exit codes and times
 
 Then edit your `~/.zshrc` and set `ZSH_THEME="powerlevel9k/powerlevel9k"`.
 
+Also add the following: `POWERLEVEL9K_MODE="awesome-patched"`
+
 Powerlevel9k offers a whole lot more, best is to [check out these user made configs yourself](https://github.com/bhilburn/powerlevel9k/wiki/Show-Off-Your-Config).
 
 ## Install a patched font
 
-- [Meslo](https://github.com/powerline/fonts/blob/master/Meslo%20Slashed/Meslo%20LG%20M%20Regular%20for%20Powerline.ttf) (the one in the screenshot). Click "view raw" to download the font.
-- [Source Code Pro](https://github.com/powerline/fonts/blob/master/SourceCodePro/Source%20Code%20Pro%20for%20Powerline.otf) has better alignment for the glyphs @14px.
+- [Source Code Pro](https://github.com/powerline/fonts/blob/master/SourceCodePro/Source%20Code%20Pro%20for%20Powerline.otf)
+- [Source Code Pro + Font Awesome](https://github.com/Falkor/dotfiles/blob/master/fonts/SourceCodePro%2BPowerline%2BAwesome%2BRegular.ttf), this one is needed if you want the icons from Font Awesome as shown in the screenshot for Powerlevel9k.
 - [Others @ powerline fonts](https://github.com/powerline/fonts)
     
 Open the downloaded font and press "Install Font".
 
-Set this font in iTerm2 (14px is my personal preference) (iTerm → Preferences → Profiles → Text → Change Font).
+Set this font in iTerm2 (iTerm → Preferences → Profiles → Text → Change Font), best to do this for "Font" and for "Non-ASCII Font".
 
 Restart iTerm2 for all changes to take effect.
 
