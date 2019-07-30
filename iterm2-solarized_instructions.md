@@ -102,8 +102,9 @@ to **the end** of your `.zshrc` file. After that, it's best to restart your term
 
 Installing a patched font will mess up the integrated terminal in VS Code unless you use the proper settings. You'll need to go to settings (CMD + ,) and add or edit the following values:
 
+- for Source Code Pro + Font Awesome: `"terminal.integrated.fontFamily": "'SourceCodePro+Powerline+Awesome Regular'"`. The single quotes are important! Restart VS Code after the config change.
 - for Source Code Pro: `"terminal.integrated.fontFamily": "Source Code Pro for Powerline"`
 - for Meslo: `"terminal.integrated.fontFamily": "Meslo LG M for Powerline"`
-- for other fonts you'll need to check the font name in Font Book.
+- for other fonts you'll need to check the font name in Font Book. You can right click on them on select "Show in Finder" to get the exact name.
 
 You can also set the fontsize e.g.: `"terminal.integrated.fontSize": 14`
