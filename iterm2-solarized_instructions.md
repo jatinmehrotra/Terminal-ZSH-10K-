@@ -38,7 +38,7 @@ Then edit your `~/.zshrc` and set `ZSH_THEME="powerlevel10k/powerlevel10k"`.
 
 Also add the following: `POWERLEVEL9K_MODE="awesome-patched"`
 
-Powerlevel10k offers a whole lot more, best is to [check out these user made configs yourself](https://github.com/bhilburn/powerlevel9k/wiki/Show-Off-Your-Config).
+Powerlevel10k offers a whole lot more, best is to [check its project page](https://github.com/bhilburn/powerlevel9k/wiki/Show-Off-Your-Config).
 
 ## Install a patched font
 
