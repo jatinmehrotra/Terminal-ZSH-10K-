@@ -66,7 +66,7 @@ can be found in the section below.
 
 ## Auto suggestions (for Oh My Zsh)
 
-![Auto suggestions](http://i66.tinypic.com/b5i9dv.png)
+![Auto suggestions](https://gist.githubusercontent.com/kevin-smets/9722391f8b3e4fa436b1c1dcf05ecd88/raw/fba93f6061a73eaedefad2e8c6266ab4ed90fbbf/autocomplete.png)
 
 Just follow these steps: https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh
 
