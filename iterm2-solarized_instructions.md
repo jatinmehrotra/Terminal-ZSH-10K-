@@ -24,7 +24,7 @@ More info here: https://github.com/robbyrussell/oh-my-zsh
     
     sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
     
-When the installation is done, edit `~/.zshrc` and set `ZSH_THEME="agnoster"`
+When the installation is done, edit `~/.zshrc` and set `ZSH_THEME="agnoster"` for the default look. Or better yet, go for Powerlevel10k.
 
 ## Powerlevel9k / Powerlevel10k
 
@@ -38,7 +38,9 @@ Then edit your `~/.zshrc` and set `ZSH_THEME="powerlevel10k/powerlevel10k"`.
 
 Also add the following: `POWERLEVEL9K_MODE="awesome-patched"`
 
-Powerlevel10k offers a whole lot more, best is to [check its project page](https://github.com/bhilburn/powerlevel9k/wiki/Show-Off-Your-Config).
+Powerlevel10k offers a whole lot more and is extremely configurable, best is to [check its project page](https://github.com/romkatv/powerlevel10k#extremely-customizable).
+
+Simply run `p10k configure` to discover all options, which are plentiful.
 
 ## Install a patched font
 
