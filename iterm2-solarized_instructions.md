@@ -34,15 +34,15 @@ So if you prefer the Powerlevel10k look with added info such as exit codes and t
 
     git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k
 
-Then edit your `~/.zshrc` and set `ZSH_THEME="powerlevel10k/powerlevel10k"`.
-
-Also add the following: `POWERLEVEL9K_MODE="awesome-patched"`
+Then edit your `~/.zshrc` and set `ZSH_THEME="powerlevel10k/powerlevel10k"`. Once you do so, when you start a new terminal session, the Powerlevel10 configure wizard will be launched to set your prompt, beware, there are many many options!
 
 Powerlevel10k offers a whole lot more and is extremely configurable, best is to [check its project page](https://github.com/romkatv/powerlevel10k#extremely-customizable).
 
-Simply run `p10k configure` to discover all options, which are plentiful.
+If you want to trigger the configuration wizard immediately, simply run `p10k configure` to discover all options, which are plentiful.
 
 ## Install a patched font
+
+If you did not go with Powerlevel9k or you want another font, read on:
 
 - [Source Code Pro](https://github.com/powerline/fonts/blob/master/SourceCodePro/Source%20Code%20Pro%20for%20Powerline.otf)
 - [Source Code Pro + Font Awesome](https://github.com/Falkor/dotfiles/blob/master/fonts/SourceCodePro%2BPowerline%2BAwesome%2BRegular.ttf), this one is needed if you want the icons from Font Awesome as shown in the screenshot for Powerlevel10k.
