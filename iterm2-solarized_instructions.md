@@ -76,7 +76,7 @@ If the auto suggestions do not appear to show, it could be a problem with your c
 
 ## Enable word jumps and word deletion, aka natural text selection
 
-By default, word jumps (option + → or ←) and word deletions (option + backspace) do not work. To enable these, go to "iTerm → Preferences → Profiles → Keys → Load Preset... → Natural Text Editing → Boom! Head explodes"
+By default, word jumps (option + → or ←) and word deletions (option + backspace) do not work. To enable these, go to "iTerm → Preferences → Profiles → Keys → Presets... → Natural Text Editing → Boom! Head explodes"
 
 ## Custom prompt styles
 
