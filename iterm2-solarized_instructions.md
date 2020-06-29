@@ -50,7 +50,7 @@ If you did not go with Powerlevel9k or you want another font, read on:
     
 Open the downloaded font and press "Install Font".
 
-Set this font in iTerm2 (iTerm → Preferences → Profiles → Text → Change Font), best to do this for "Font" and for "Non-ASCII Font".
+Set this font in iTerm2 (iTerm → Preferences → Profiles → Text → Font), in the dropdown select the desired Font. You will see it change on the fly.
 
 Restart iTerm2 for all changes to take effect.
 
