@@ -2,7 +2,7 @@
 
 ## iTerm2
 
-    brew cask install iterm2
+    brew install --cask iterm2
     
 Or, if you do not have homebrew (you should ;)): [Download](http://www.iterm2.com/downloads.html) and install iTerm2 
 
